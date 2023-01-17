@@ -14,6 +14,14 @@
       </p>
   </div>
   <br />
+    <div>  
+    <h2>Contact:</h2>
+  You can easily reach me by social medias listed below. 
+    
+  If you want to send me an email, go ahead: [hello@lzegar.pl](mailto:hello@lzegar.pl)
+    
+  </div>
+  <br />
   <div>
       <h2>Social media:</h2>
     <a href="https://linkedin.com/in/łukasz-zegar/">
@@ -25,20 +33,5 @@
     <a href="https://www.instagram.com/lukaasz555/">
         <img src="https://img.shields.io/badge/Instagram-ff69b4?logo=instagram&logoColor=white&style=for-the-badge" alt="instagram.com/lukaasz555" />   
     </a>
-  </div>
-  <br />
-  
-  <div>  
-    <h2>Contact:</h2>
-  You can easily reach me by social medias listed above. 
-    
-  If you want to send me an email, go ahead: [hello@lzegar.pl](mailto:hello@lzegar.pl)
-    
-  </div>
-  <br />
-  <div>
-    <h2>GitHub stats:</h2>
-    <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukaasz555&theme=default&title_color=36454F&text_color=36454F&bg_color=ededed&hide_border=false&layout=compact" alt="g3root stats card" /></p><br />
   </div>
   </div>
