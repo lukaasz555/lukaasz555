@@ -18,7 +18,7 @@
     <h2>Contact:</h2>
   You can easily reach me by social medias listed below. 
     
-  If you want to send me an email, go ahead: [hello@lzegar.pl](mailto:hello@lzegar.pl)
+  If you want to send me an email, go ahead: [lukasz.zegar555@gmail.com](mailto:lukasz.zegar555@gmail.com)
     
   </div>
   <br />
